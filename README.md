@@ -1,0 +1,2 @@
+# Computational Conversions
+This repository contains python programs that perform conversions through decimal, binary, hexadecimal, ASCII, and more. In the future, encryption programs will also be built. 
